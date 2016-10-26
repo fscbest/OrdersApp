@@ -9,7 +9,7 @@ declare var Auth0Lock: any;
 export class Auth {
 
   // Configure Auth0
-  lock = new Auth0Lock('4TTgOlq3nH6DTxVO9Qugro5mDYgmcRLZ', 'romang.eu.auth0.com', {});
+  lock = new Auth0Lock('Mn5hITtubGAFamf0Xl7gSK4CcjbYi4su', 'orders-shop.eu.auth0.com', {});
 
   constructor() {
     // Add callback for lock `authenticated` event
