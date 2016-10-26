@@ -1,1 +1,3 @@
 # OrdersApp
+
+npm start
